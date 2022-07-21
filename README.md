@@ -29,7 +29,9 @@ npm run lint
 ```
 
 ## Backend setup
-
+```
+pip install -r requirements.txt
+```
 ```
 python main.py
 ```
